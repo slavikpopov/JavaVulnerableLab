@@ -1,4 +1,5 @@
  <%@ include file="header.jsp" %>
+<%--  --%>
  <%
  if(session.getAttribute("user")!=null)
 {
