@@ -1,4 +1,5 @@
  <%@ include file="/header.jsp" %>
+<%--  --%>
 
 This is Admin Panel located in WEB-INF. You can't directly visit this page ;)<br/><br/>
 <ul>
