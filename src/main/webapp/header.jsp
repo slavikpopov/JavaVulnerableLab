@@ -1,6 +1,7 @@
  <%@page import="java.io.FileInputStream"%>
 <%@page import="java.util.Properties"%>
 <%@page import="java.io.File"%>
+<%--  --%>
 <%
    String path = request.getContextPath();
    String configPath=getServletContext().getRealPath("/WEB-INF/config.properties");
