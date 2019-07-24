@@ -1,6 +1,7 @@
 
 
   <%@ include file="/header.jsp" %>
+<%--  --%>
 
  
 <form action="Install" method="POST">
