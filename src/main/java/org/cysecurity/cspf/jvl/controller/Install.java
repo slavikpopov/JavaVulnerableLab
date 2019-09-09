@@ -6,8 +6,6 @@
  * and open the template in the editor.
  */
 
-/* some change */
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
