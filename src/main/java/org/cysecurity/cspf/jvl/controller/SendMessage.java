@@ -4,6 +4,8 @@
  * and open the template in the editor.
  */
 
+/* Some scan */
+
 package org.cysecurity.cspf.jvl.controller;
 
 import java.io.IOException;
