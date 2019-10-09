@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 
+/* Some scan */
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
