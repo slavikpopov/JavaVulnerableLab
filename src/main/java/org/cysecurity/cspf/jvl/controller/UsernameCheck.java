@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/* some change */
+/* Some scan */
 
 package org.cysecurity.cspf.jvl.controller;
 
