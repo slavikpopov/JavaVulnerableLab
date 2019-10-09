@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 
-/* Some change */
-
 package org.cysecurity.cspf.jvl.controller;
 
 import java.io.BufferedWriter;
