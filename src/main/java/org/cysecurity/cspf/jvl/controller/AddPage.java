@@ -24,7 +24,7 @@ public class AddPage extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
-     * methods. some change
+     * methods. some change again
      *
      * @param request servlet request
      * @param response servlet response
